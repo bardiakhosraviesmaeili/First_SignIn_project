@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="welcome_text">welcome to the app</string>
+    <string name="Edittext_firtname">Please enter your first name</string>
+    <string name="Edittext_Lastname">Please enter your last name</string>
+    <string name="Edittext_Email">Please enter your email adress</string>
+    <string name="Edittext_Password">Please enter your Password</string>
+    <string name="Radiobutton_men">Men</string>
+    <string name="Radiobutton_women">Women</string>
+    <string name="button_Enter">Enter</string>
+</resources>
